@@ -1,0 +1,2 @@
+# ESP32-C3-MINI-1-N4-DEVKIT
+Custom ESP32-C3-MINI-1-N4 board devkit
